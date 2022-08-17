@@ -15,3 +15,34 @@ li {
 h1 {
     background-color: yellow;
 }
+
+* {
+    font-family: arial;
+}
+
+h2 {
+    background-color: rgb(20, 206, 209);
+}
+
+p {
+    color: rgb(27, 43, 143);
+    font-weight: 700;
+}
+
+p,
+h2 {
+    text-align: center;
+}
+
+ul {
+    background-color: rgb(245, 245, 220);
+}
+
+ol {
+    background-color: coral;
+}
+
+.better {
+    color: black;
+    text-align: left;
+}
